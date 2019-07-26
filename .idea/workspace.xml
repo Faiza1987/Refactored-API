@@ -43,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="139" column="44" selection-start-line="139" selection-start-column="44" selection-end-line="139" selection-end-column="44" />
+            <state relative-caret-position="650">
+              <caret line="137" column="6" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -121,9 +121,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="721" />
+    <option name="x" value="389" />
     <option name="y" value="23" />
-    <option name="width" value="719" />
+    <option name="width" value="1051" />
     <option name="height" value="827" />
   </component>
   <component name="ProjectView">
@@ -467,8 +467,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="139" column="44" selection-start-line="139" selection-start-column="44" selection-end-line="139" selection-end-column="44" />
+        <state relative-caret-position="650">
+          <caret line="137" column="6" selection-start-line="137" selection-start-column="6" selection-end-line="137" selection-end-column="6" />
         </state>
       </provider>
     </entry>
